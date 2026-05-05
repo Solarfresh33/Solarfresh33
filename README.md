@@ -10,8 +10,9 @@
 
 ```bash
 $ whoami
-> Étudiant en cybersécurité, je casse des trucs pour comprendre comment les réparer.
-> Fan de CTF, de Wireshark à 2h du mat et de redbull.
+> Étudiant en cybersécurité, je casse des trucs pour comprendre comment les réparer
+> J'ai beaucoup trop de redbull dans le sang et pas assez de sommeil
+> Fan de CTF
 ```
 
 <sub><i>// It's not hacking if you have permission <img src="https://raw.githubusercontent.com/Solarfresh33/Solarfresh33/master/dog.png" height="22"/></i></sub>
