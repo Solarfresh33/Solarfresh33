@@ -48,7 +48,7 @@ $ whoami
 
 ---
 
-## Projets pas piqués des hannetons
+## Projets tah les fous
 
 <table>
   <tr>
