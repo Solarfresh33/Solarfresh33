@@ -15,7 +15,7 @@ $ whoami
 > Fan de CTF
 ```
 
-<sub><i>// It's not hacking if you have permission <img src="https://raw.githubusercontent.com/Solarfresh33/Solarfresh33/master/dog.png" height="22"/></i></sub>
+<b><i>// It's not hacking if you have permission <img src="https://raw.githubusercontent.com/Solarfresh33/Solarfresh33/main/dog.png" height="24"/></i></b>
 
 
 ---
