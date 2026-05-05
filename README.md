@@ -3,7 +3,7 @@
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=00FF41&background=00000000&width=520&lines=Solar%2C+Cybersecurity+Student;Solar%2C+CTF+Enjoyer;Next+thing+you+know;chmod+%2Bx+everything.sh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=00FF41&background=00000000&width=520&lines=Solar%2C+Cybersecurity+Student;Solar%2C+CTF+Enjoyer;Next+thing+you+know;chmod+%2Bx+everything.sh;Tu+peux+me+pirater+un+compte+insta+stp" alt="Typing SVG" />
 </a>
 
 ## Moi ?
