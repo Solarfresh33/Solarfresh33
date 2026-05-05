@@ -11,7 +11,7 @@
 ```bash
 $ whoami
 > Étudiant en cybersécurité, je casse des trucs pour comprendre comment les réparer
-> J'ai beaucoup trop de redbull dans le sang et pas assez de sommeil
+> Beaucoup trop de redbull dans le sang et pas assez de sommeil
 > Fan de CTF
 ```
 
