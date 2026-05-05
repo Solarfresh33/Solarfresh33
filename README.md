@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=00FF41&background=00000000&width=520&lines=Solar%2C+Cybersecurity+Student;Solar%2C+CTF+Enjoyer;It%27s+not+hacking+if+you+have+perms;chmod+%2Bx+everything.sh" alt="Typing SVG" />
 </a>
 
-## 👤 — Who Am I ?
+## Moi ?
 
 ```bash
 $ whoami
@@ -20,7 +20,7 @@ $ whoami
 
 ---
 
-## 🛠️ — Tools & Languages
+## Tools & Languages 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=003300" alt="Python"/>
@@ -48,7 +48,7 @@ $ whoami
 
 ---
 
-## 🚩 — Projets
+## Projets pas piqués des hannetons
 
 <table>
   <tr>
