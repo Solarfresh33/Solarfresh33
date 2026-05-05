@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Solar&fontAlign=50&fontAlignY=50&color=0:000000,100:003a00&fontColor=00FF41&fontSize=70&fontName=VT323&stroke=00FF41&strokeWidth=1&animation=twinkling)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Solarfresh33/Solarfresh33/master/header.svg" width="100%"/>
+</p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=00FF41&background=00000000&width=520&lines=Solar%2C+Cybersecurity+Student;Solar%2C+CTF+Enjoyer;It%27s+not+hacking+if+you+have+perms;chmod+%2Bx+everything.sh" alt="Typing SVG" />
@@ -98,4 +100,6 @@ $ whoami
   </tr>
 </table>
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Solar&fontAlign=50&fontAlignY=50&color=0:000000,100:003a00&fontColor=00FF41&fontSize=70&fontName=VT323&stroke=00FF41&strokeWidth=1&animation=fadeIn)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Solarfresh33/Solarfresh33/master/footer.svg" width="100%"/>
+</p>
