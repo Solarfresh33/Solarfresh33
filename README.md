@@ -35,7 +35,7 @@ $ whoami
 
 ---
 
-## 📊 — Stats
+## Mes stats de BG
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Solarfresh33&theme=matrix&hide_border=true&background=000000&ring=00FF41&fire=39FF14&currStreakLabel=00FF41" alt="GitHub Streak"/>
