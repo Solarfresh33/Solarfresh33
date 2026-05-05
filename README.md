@@ -12,7 +12,7 @@ $ whoami
 > Fan de CTF, de Wireshark à 2h du mat et de redbull.
 ```
 
-<sub><i>// It's not hacking if you have permission <img src="https://raw.githubusercontent.com/Solarfresh33/Solarfresh33/main/dog.png" height="22"/></i></sub>
+<sub><i>// It's not hacking if you have permission <img src="https://raw.githubusercontent.com/Solarfresh33/Solarfresh33/master/dog.png" height="22"/></i></sub>
 
 
 ---
