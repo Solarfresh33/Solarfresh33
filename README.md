@@ -39,6 +39,9 @@ $ whoami
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Solarfresh33&bg_color=000000&color=00FF41&line=00FF41&point=39FF14&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Solarfresh33/Solarfresh33/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
 
 ---
 
