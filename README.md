@@ -61,7 +61,7 @@ $ whoami
       <img src="https://img.shields.io/badge/Status-WIP-00cc00?style=for-the-badge&labelColor=000000"/>
       <img src="https://img.shields.io/badge/Domain-Security-003300?style=for-the-badge"/>
       <br/>
-      <sub><i>🔒 Projet de cybersécurité</i></sub>
+      <sub><i>🔒 Outil d'analyse de sécurité</i></sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Solarfresh33/ChatRoom">
